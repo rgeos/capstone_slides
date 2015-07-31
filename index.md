@@ -47,4 +47,4 @@ The GUI of the app is very simple and is divided in 4 areas as below
  - Once it loads, it will show automatically one of the quiz entries in Coursera and it's most likely prediction.
  - Type something and wait for the answer and 4 more suggestions
  
-> Enjoy the app at [link]()
+> Enjoy the app at [link](https://rgeos.shinyapps.io/Capstone)
